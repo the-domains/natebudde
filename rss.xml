@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Nate Budde]]></title>
         <description><![CDATA[Nate Budde]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/natebudde/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 23:23:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 23:30:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/natebudde/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Well... I'm off. On Saturday, December 5th I will be departing with schoolmates to Addis Ababa, Ethiopia. The trip is part of a semester-long class with an objective to provide solar powered lighting to rural communities in which electricity is nonexistent. The hope is that this lighting will improve safety and reduce crime in what would otherwise be a completely dark region in the world.</p>]]></description>
+            <link>https://thegrid.ai/natebudde/well-im-off-on-saturday-december-5th-i-will-be-departi/index.html</link>
+            <guid isPermaLink="false">f1564359-356d-4801-a716-5749b8330a41</guid>
+            <pubDate>Sun, 08 May 2016 23:30:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Life of a College Student]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c5ecdec-abf7-40c9-b8eb-59c862f6a20a.jpg">]]></description>
-            <link>undefinedlife-of-a-college-student/index.html</link>
+            <link>https://thegrid.ai/natebudde/life-of-a-college-student/index.html</link>
             <guid isPermaLink="false">a49c349c-18e3-42f7-af2f-a5d284278bd4</guid>
             <pubDate>Sun, 08 May 2016 23:23:49 GMT</pubDate>
         </item>
