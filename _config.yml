@@ -1,0 +1,28 @@
+name: Nate Budde
+favicon: null
+layout_spectrum: 0.7569554212968796
+typography_spectrum: 0.8467056886292994
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.11811850778758526
+  lightness: 0.9056460938882083
+  saturation: 0.7153480323031545
+  rhythmicContrast: 0.9607940064743161
+purpose: []
